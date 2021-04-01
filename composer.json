@@ -1,0 +1,12 @@
+{
+  "name": "vendor/restfulapi",
+  "description": "Restful Api for school example",
+  "require": {
+    "vlucas/phpdotenv": "^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
